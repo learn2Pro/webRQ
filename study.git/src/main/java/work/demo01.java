@@ -59,4 +59,8 @@ public class demo01 extends HttpServlet {
             throws ServletException, IOException {
         doGet(request, response);
     }
+
+    public static void main(String[] args){
+
+    }
 }
